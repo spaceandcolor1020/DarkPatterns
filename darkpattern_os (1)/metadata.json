@@ -1,0 +1,5 @@
+{
+  "name": "DarkPattern_OS",
+  "description": "A forensic UX auditor and digital literacy tool that exposes manipulative design patterns using Gemini AI.",
+  "requestFramePermissions": []
+}
